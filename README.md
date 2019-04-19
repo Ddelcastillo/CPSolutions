@@ -1,1 +1,1 @@
-Solutions
+My own solutions to diverse programming problems.
